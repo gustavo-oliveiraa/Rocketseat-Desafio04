@@ -60,3 +60,14 @@ margin: 0 auto;/*para alinha ao meio da tela*/
 
 
 max-width = o maximo que eu quero que vc chegue é esse tamanho
+
+
+
+/* media queries = faz o ajuste do tamanho da tela*/
+
+/* @ media (min-width: 500px) = minimo para cima (de 500 para cima) */
+/* @ media (max-width: 320px) = de 320 para baixo voce aplica (ate 320 vc aplica) */
+
+/*padrão:
+@media (min-width: 40em){...}*/
+/* em = unidade de medida flexivel*/
